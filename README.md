@@ -11,7 +11,7 @@ This repository contains ROS2 packages for robot control and camera streaming, i
 
 1. **Clone this repository:**
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/TurjoRahman-afk/RoboVisionControl.git
    cd ros2_ws
    ```
 
